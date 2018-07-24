@@ -19,11 +19,11 @@ h3 {
 }
 
 h4 {
-	color: Teal;
+	color: teal;
 }
 
 span {
-	color: Gold;
+	color: red;
 }
 
 div {
@@ -32,3 +32,10 @@ div {
 	margin: 5px;
 }
 
+.boxes {
+	width: 40%;
+}
+
+#box1 {
+	text-align: justify;
+}
